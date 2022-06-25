@@ -21,10 +21,6 @@ decrease = () => {
     }
 } ;
 
-
-
-
-
   render() {
     return (
       <div>
